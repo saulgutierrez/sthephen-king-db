@@ -1,31 +1,30 @@
-libro(night_surf, 1969).
-libro(graveyard_shift, 1970).
-libro(battleground, 1972).
-libro(trucks, 1973).
-libro(gray_matter, 1973).
-libro(carrie, 1974).
-libro(sometimes_they_come_back, 1974).
-libro(salems_lot, 1975).
-libro(rage, 1977).
-libro(the_shining, 1977).
-libro(the_cat_from_hell, 1977).
-libro(the_man_who_loved_flowers, 1977).
-libro(rage,1977).
-libro(i_am_the_Doorway, 1978).
-libro(strawberry_spring, 1978).
-libro(the_mangler, 1978).
-libro(the_woman_in_the_room, 1978).
-libro(i_know_what_you_need, 1978).
-libro(quitters_inc, 1978).
-libro(children_on_the_corn, 1978).
-libro(night_shift, 1978).
-libro(the_stand, 1978).
-libro(the_long_walk, 1979).
-libro(the_dead_zone, 1979).
-libro(a_tale_of_the_laundry_game, 1979).
-libro(crouch_end, 1980).
-libro(the_mist, 1980).
-libro(firestarter, 1980).
+libro(night_surf, 1969, [new_hampshire]).
+libro(graveyard_shift, 1970, [maine]).
+libro(battleground, 1972, []).
+libro(trucks, 1973, []).
+libro(gray_matter, 1973, [maine]).
+libro(carrie, 1974,[maine, chamberlain]).
+libro(sometimes_they_come_back, 1974, []).
+libro(salems_lot, 1975, [jerusalem_lot]).
+libro(rage, 1977, [maine]).
+libro(the_shining, 1977,[colorado, sidewinder, maine]).
+libro(the_cat_from_hell, 1977,[milford, connecticut, wonderland]).
+libro(the_man_who_loved_flowers, 1977, [new_york]).
+libro(i_am_the_Doorway, 1978, [venus, moon, mars]).
+libro(strawberry_spring, 1978, [new_england]).
+libro(the_mangler, 1978, [united_states]).
+libro(the_woman_in_the_room, 1978, [unlocated_hospital]).
+libro(i_know_what_you_need, 1978, []).
+libro(quitters_inc, 1978, [queens]).
+libro(children_of_the_corn, 1978, [california, nebraska, gatlin, grand_island]).
+libro(night_shift, 1978, [maine, new_york, venus, moon, mars, new_england, quuens, california, nebraska, gatlin, grand_island]).
+libro(the_stand, 1978, [ogunquit, maine, arnette, texas, new_york, nebraska, new_hampshire, oklahoma, boulder, indiana, iowa, indian_springs, new_england, idaho, vermont, arizona, new_mexico, phoenix, colorado, las_vegas, luisiana, utah, kansas]).
+libro(the_long_walk, 1979, [pownal, new_hampshire, las_vegas, limestone, caribou, jefferson, old_town, augusta, lewiston, porterville, freeport, portland, south_portland, kittery, danvers, massachusetts]).
+libro(the_dead_zone, 1979, [maine, iowa, new_hampshire, ridgeway, carmel, california, suiza, canada, castle_rock, phoenix, salt_lake_city, new_york]).
+libro(a_tale_of_the_laundry_game, 1979, [pennsylvania]).
+libro(crouch_end, 1980, [crouch_end, london]).
+libro(the_mist, 1980, [bridgton, maine, highland_lake, new_york, holliwood, bridgeville]).
+libro(firestarter, 1980, [longmont, virginia, new_york, ohio, albany, hastings, vermont, vietnam]).
 libro(the_jaunt, 1981).
 libro(the_man_who_would_not_shake_hands, 1981).
 libro(a_novel, 1981).
@@ -171,6 +170,27 @@ libro(the_dark_tower_beginnings_omnibus, 2018).
 libro(elevation, 2018).
 libro(all_that_you_love_will_be_carried_away, 2019).
 libro(the_institute, 2019).
+
+% Regla para determinar si una locacion determinada se encuentra dentro
+% de un hecho de la base de conocimientos
+
+libro_locacion(Titulo, Anio, Locacion) :- libro(Titulo, Anio, Locaciones), buscar(Locacion, Locaciones).
+buscar(Locacion, []) :- !, fail.
+buscar(Locacion, [Locacion|L]) :- !, true.
+buscar(Locacion, [C|L]) :- buscar(Locacion, L).
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
