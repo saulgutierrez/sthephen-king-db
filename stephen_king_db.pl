@@ -24,65 +24,59 @@ libro(the_dead_zone, 1979, [maine, iowa, new_hampshire, ridgeway, carmel, califo
 libro(a_tale_of_the_laundry_game, 1979, [pennsylvania]).
 libro(crouch_end, 1980, [crouch_end, london]).
 libro(the_mist, 1980, [bridgton, maine, highland_lake, new_york, holliwood, bridgeville]).
-libro(firestarter, 1980, [longmont, virginia, new_york, ohio, albany, hastings, vermont, vietnam]).
-libro(the_jaunt, 1981).
-libro(the_man_who_would_not_shake_hands, 1981).
-libro(a_novel, 1981).
-libro(road_work, 1981).
-libro(danse_macabre, 1981).
-libro(cujo, 1981).
-libro(survivor_type, 1982).
-libro(rita_hayworth_and_shawshank_redemption, 1982).
-libro(the_running_man, 1982).
-libro(the_gunslinger, 1982).
-libro(creepshow, 1982).
-libro(the_body, 1982).
-libro(fall_from_innocence, 1982).
-libro(different_seasons, 1982).
-libro(the_breathing_method, 1982).
-libro(the_raft, 1982).
-libro(uncle_otto_truck, 1983).
-libro(world_proccssor_of_the_gods, 1983).
-libro(christine, 1983).
-libro(cycle_of_the_werewolf, 1983).
-libro(pet_sematary, 1983).
-libro(the_eyes_of_the_dragon, 1984).
-libro(the_ballad_of_the_flexible_bullet, 1984).
-libro(gramma, 1984).
-libro(dark_visitors, 1984).
-libro(mrs_todd_shortcut, 1984).
-libro(the_talisman, 1984).
-libro(thinner, 1984).
-libro(skeleton_crew, 1985).
-libro(cain_rose_up, 1985).
-libro(here_there_be_tygers, 1985).
-libro(the_bachman_books, 1986).
-libro(the_end_of_the_whole_messt, 1986).
-libro(it, 1986).
-libro(the_dark_tower_II_the_drawing_of_the_three, 1987).
-libro(misery, 1987).
-libro(the_tommyknockers, 1987).
-libro(nightmares_in_the_sky, 1988).
-libro(the_night_flier, 1988).
-libro(doolan_cadillac, 1989).
-libro(feast_of_fear, 1989).
-libro(my_pretty_pony, 1989).
-libro(the_dark_half, 1989).
-libro(langoliers, 1990).
-libro(the_library_policeman, 1990).
-libro(the_sun_dog, 1990).
-libro(minuit_4, 1990).
-libro(four_past_midnight, 1990).
-libro(the_dark_tower_III_the_waste_lands, 1991).
-libro(needful_things, 1991).
-libro(you_know_the_got_a_hell_of_the_band, 1992).
-libro(chattery_teeth, 1992).
-libro(gerald_game, 1992).
-libro(dolores_claiborne, 1992).
-libro(popsy, 1993).
-libro(ummey_last_case, 1993).
-libro(the_ten_O_clock_people, 1993).
-libro(the_house_on_mapple_street, 1993).
+libro(firestarter, 1980, [longmont, virginia, new_york, ohio, albany, hastings, vermont, vietnam, la_tienda]).
+libro(the_jaunt, 1981, [schenectady, whiteheat_city, mars]).
+libro(the_man_who_would_not_shake_hands, 1981, [manhattan]).
+libro(road_work, 1981, [no_name_city_in_middle_west]).
+libro(danse_macabre, 1981, [maine]).
+libro(cujo, 1981, [castle_rock, maine]).
+libro(survivor_type, 1982, [new_york, pacific_ocean]).
+libro(rita_hayworth_and_shawshank_redemption, 1982, [maine, zihuatanejo, mcnary]).
+libro(the_running_man, 1982, [boston, manchester, portland, maine]).
+libro(the_dark_tower_I_the_gunslinger, 1982, [old_west, desert, algul_siento, baby_forest, bad_grass, badlands, bar_k, beelie_stockade, blaine_cradle, blosswood_forest, boing_boing_burger, brockest, calla, calla_amity, calla_boot_hill, calla_bryn_bouse, calla_bryn_sturgis, calla_divine, calla_lockwood, calla_sen_chre, can_ka_no_rey, candleton, castle_discordia, castle_town, christopher_street_station, chruch_of_the_everlasting_blood, citgo, clean_sea, clement_guns_and_sporting_goods, co_op_city, cressia, cyclopean_mountains, coos_hill, damli_house, dark_tower, dasherville, debaria, delain, delta_fight_910, derry, desatoya, desatoya_mountains, desoy, devar_whye, devar_tete_whye, devil_arse, dis, discordia, dixie_pig, dogan, dorway_cave, downland_baronies, dragon_grave, dutch_hill_mansion, easter_barony, eluria, emerald_city, emphatica, end_world, extraction_room, eyebolt_canyon, fagonard_swamp, fedic, fedic_dogan, forest_of_barony, forest_of_h_bosque, gage_park, gallows_hill, garlan, garland, gingerbread_house, golgotha, gook_town, grand_crescent, great_road, guardians_of_the_beam, hambry, hambry_cemetery, hanging_rock, hemphill, hendrickson, highways_in_hiding, home, i_70_thinny, in_world, indrie, inner_baronies, ironwood_forest, jerincho_hill, kasharmin, katz_pharmacy_and_soda_fountain, keystone_earth, keystone_world, kingdom_of_all_world, kingstown, lake_soroni, le_casse_roi_russe, le_casse_roi_russe,river, lexingworth, lighthouse_shelter, little_sister_infirmatary_tent, lud, luddite_wasteland, main_street_8013_local, manni_redpath, mejis, mid_forest, mid_world, mohaine_desert, multiple_americas, naar, new_canaan, new_york, nigel_quarters, north_forest_kinnock_dogan, nothern_baronies, oakley, odd_lane, onnie_ford, our_lady_of_serenity, our_lady_of_the_rose, out_world, pass_o_river, penniton, pricetown, prim, razek_lake, rilea, rimrocks, ritzy, river_barony, river_crossing, river_send, river_whye, rocking_b_ranch, rose, rotunda, sea_coast_road, seafront, second_avenue, shardik_lair, sheb_pub, silk_ranch_road, son_of_a_bitch, south_islands, southern_baronies, staging_area, taunton, tavares, tejuas, tepachi, the_big_combination, the_clearing, the_drop, the_falls_of_the_hounds, the_head, the_leaning_tower, the_manhattan_restaurant_of_the_mind, the_piper_school, the_shaved_mountains, the_traveller_rest, the_wastelands, thoughful_house, thunderclap, thunderclap_station, todash_space, tomesbury, took_general_store, took_outland_mercantile, topeka, traveler_rest, tree, tull, turtle_bay_luxury_condominiums, turtleback_lame, plaza_hotel, vi_castis, vi_castis_mountains, way_station, waydon, western_line, western_sea, willow_jungle, wind, xay_river_canyon]).
+libro(creepshow, 1982, [grantham_manor, horlicks_university, amberson_hall, orlando]).
+libro(the_body, 1982,[castle_rock, chamberlain, maine]).
+libro(different_seasons, 1982, [castle_rock, chamberlain, maine, manhattan]).
+libro(the_breathing_method, 1982, [manhattan]).
+libro(the_raft, 1982, [pennsylvania]).
+libro(uncle_otto_truck, 1983, [castle_rock]).
+libro(world_processor_of_the_gods, 1983, [connecticut, new_york]).
+libro(christine, 1983, [ohio]).
+libro(cycle_of_the_werewolf, 1983, [tarkers_mills, maine]).
+libro(pet_sematary, 1983, [ludlow, maine, chicago, st_louis]).
+libro(the_eyes_of_the_dragon, 1984, [delain_kingdom]).
+libro(the_ballad_of_the_flexible_bullet, 1984, []).
+libro(gramma, 1984, [buxton, connecticut, castle_rock, minnesota]).
+libro(mrs_todd_shortcut, 1984, []).
+libro(the_talisman, 1984, [new_hampshire, los_territorios, alhambra_hotel, sunlight_school, thayer_school, agincourt_hotel, point_venuti, california, illinois, indiana]).
+libro(thinner, 1984, [fairview, connecticut, new_england, maine]).
+libro(cain_rose_up, 1985, []).
+libro(here_there_be_tygers, 1985, []).
+libro(the_end_of_the_whole_messt, 1986, []).
+libro(it, 1986, [castle_rock, derry]).
+libro(the_dark_tower_II_the_drawing_of_the_three, 1987, [old_west, desert, algul_siento, baby_forest, bad_grass, badlands, bar_k, beelie_stockade, blaine_cradle, blosswood_forest, boing_boing_burger, brockest, calla, calla_amity, calla_boot_hill, calla_bryn_bouse, calla_bryn_sturgis, calla_divine, calla_lockwood, calla_sen_chre, can_ka_no_rey, candleton, castle_discordia, castle_town, christopher_street_station, chruch_of_the_everlasting_blood, citgo, clean_sea, clement_guns_and_sporting_goods, co_op_city, cressia, cyclopean_mountains, coos_hill, damli_house, dark_tower, dasherville, debaria, delain, delta_fight_910, derry, desatoya, desatoya_mountains, desoy, devar_whye, devar_tete_whye, devil_arse, dis, discordia, dixie_pig, dogan, dorway_cave, downland_baronies, dragon_grave, dutch_hill_mansion, easter_barony, eluria, emerald_city, emphatica, end_world, extraction_room, eyebolt_canyon, fagonard_swamp, fedic, fedic_dogan, forest_of_barony, forest_of_h_bosque, gage_park, gallows_hill, garlan, garland, gingerbread_house, golgotha, gook_town, grand_crescent, great_road, guardians_of_the_beam, hambry, hambry_cemetery, hanging_rock, hemphill, hendrickson, highways_in_hiding, home, i_70_thinny, in_world, indrie, inner_baronies, ironwood_forest, jerincho_hill, kasharmin, katz_pharmacy_and_soda_fountain, keystone_earth, keystone_world, kingdom_of_all_world, kingstown, lake_soroni, le_casse_roi_russe, le_casse_roi_russe,river, lexingworth, lighthouse_shelter, little_sister_infirmatary_tent, lud, luddite_wasteland, main_street_8013_local, manni_redpath, mejis, mid_forest, mid_world, mohaine_desert, multiple_americas, naar, new_canaan, new_york, nigel_quarters, north_forest_kinnock_dogan, nothern_baronies, oakley, odd_lane, onnie_ford, our_lady_of_serenity, our_lady_of_the_rose, out_world, pass_o_river, penniton, pricetown, prim, razek_lake, rilea, rimrocks, ritzy, river_barony, river_crossing, river_send, river_whye, rocking_b_ranch, rose, rotunda, sea_coast_road, seafront, second_avenue, shardik_lair, sheb_pub, silk_ranch_road, son_of_a_bitch, south_islands, southern_baronies, staging_area, taunton, tavares, tejuas, tepachi, the_big_combination, the_clearing, the_drop, the_falls_of_the_hounds, the_head, the_leaning_tower, the_manhattan_restaurant_of_the_mind, the_piper_school, the_shaved_mountains, the_traveller_rest, the_wastelands, thoughful_house, thunderclap, thunderclap_station, todash_space, tomesbury, took_general_store, took_outland_mercantile, topeka, traveler_rest, tree, tull, turtle_bay_luxury_condominiums, turtleback_lame, plaza_hotel, vi_castis, vi_castis_mountains, way_station, waydon, western_line, western_sea, willow_jungle, wind, xay_river_canyon]).
+libro(misery, 1987, [los_angeles, boulder]).
+libro(the_tommyknockers, 1987, [haven, maine, altair_4, la_tienda, juniper_hill]).
+libro(nightmares_in_the_sky, 1988, []).
+libro(the_night_flier, 1988, []).
+libro(doolan_cadillac, 1989, [las_vegas]).
+libro(feast_of_fear, 1989, []).
+libro(my_pretty_pony, 1989, []).
+libro(the_dark_half, 1989, [maine, castle_rock, ludlow]).
+libro(the_library_policeman, 1990, [junction_city, iowa]).
+libro(the_sun_dog, 1990, [castle_rock, maine]).
+libro(minuit_4, 1990, []).
+libro(four_past_midnight, 1990, [castle_rock, maine]).
+libro(the_dark_tower_III_the_waste_lands, 1991, [old_west, desert, algul_siento, baby_forest, bad_grass, badlands, bar_k, beelie_stockade, blaine_cradle, blosswood_forest, boing_boing_burger, brockest, calla, calla_amity, calla_boot_hill, calla_bryn_bouse, calla_bryn_sturgis, calla_divine, calla_lockwood, calla_sen_chre, can_ka_no_rey, candleton, castle_discordia, castle_town, christopher_street_station, chruch_of_the_everlasting_blood, citgo, clean_sea, clement_guns_and_sporting_goods, co_op_city, cressia, cyclopean_mountains, coos_hill, damli_house, dark_tower, dasherville, debaria, delain, delta_fight_910, derry, desatoya, desatoya_mountains, desoy, devar_whye, devar_tete_whye, devil_arse, dis, discordia, dixie_pig, dogan, dorway_cave, downland_baronies, dragon_grave, dutch_hill_mansion, easter_barony, eluria, emerald_city, emphatica, end_world, extraction_room, eyebolt_canyon, fagonard_swamp, fedic, fedic_dogan, forest_of_barony, forest_of_h_bosque, gage_park, gallows_hill, garlan, garland, gingerbread_house, golgotha, gook_town, grand_crescent, great_road, guardians_of_the_beam, hambry, hambry_cemetery, hanging_rock, hemphill, hendrickson, highways_in_hiding, home, i_70_thinny, in_world, indrie, inner_baronies, ironwood_forest, jerincho_hill, kasharmin, katz_pharmacy_and_soda_fountain, keystone_earth, keystone_world, kingdom_of_all_world, kingstown, lake_soroni, le_casse_roi_russe, le_casse_roi_russe,river, lexingworth, lighthouse_shelter, little_sister_infirmatary_tent, lud, luddite_wasteland, main_street_8013_local, manni_redpath, mejis, mid_forest, mid_world, mohaine_desert, multiple_americas, naar, new_canaan, new_york, nigel_quarters, north_forest_kinnock_dogan, nothern_baronies, oakley, odd_lane, onnie_ford, our_lady_of_serenity, our_lady_of_the_rose, out_world, pass_o_river, penniton, pricetown, prim, razek_lake, rilea, rimrocks, ritzy, river_barony, river_crossing, river_send, river_whye, rocking_b_ranch, rose, rotunda, sea_coast_road, seafront, second_avenue, shardik_lair, sheb_pub, silk_ranch_road, son_of_a_bitch, south_islands, southern_baronies, staging_area, taunton, tavares, tejuas, tepachi, the_big_combination, the_clearing, the_drop, the_falls_of_the_hounds, the_head, the_leaning_tower, the_manhattan_restaurant_of_the_mind, the_piper_school, the_shaved_mountains, the_traveller_rest, the_wastelands, thoughful_house, thunderclap, thunderclap_station, todash_space, tomesbury, took_general_store, took_outland_mercantile, topeka, traveler_rest, tree, tull, turtle_bay_luxury_condominiums, turtleback_lame, plaza_hotel, vi_castis, vi_castis_mountains, way_station, waydon, western_line, western_sea, willow_jungle, wind, xay_river_canyon]).
+libro(needful_things, 1991, [castle_rock, iowa]).
+libro(you_know_the_got_a_hell_of_the_band, 1992, [oregon, toketee_falls]).
+libro(chattery_teeth, 1992, [nevada]).
+libro(gerald_game, 1992, [maine, massachusetts]).
+libro(dolores_claiborne, 1992, [little_man_isle, maine, shawshank_jail]).
+libro(popsy, 1993, []).
+libro(umney_last_case, 1993, [los_angeles]).
+libro(the_ten_O_clock_people, 1993, [boston]).
+libro(the_house_on_mapple_street, 1993, [titusville, england, indiana]).
 libro(nightmares_and_dreamscapes, 1993).
 libro(insomnia, 1994).
 libro(the_man_in_the_black_suit, 1994).
@@ -178,29 +172,6 @@ libro_locacion(Titulo, Anio, Locacion) :- libro(Titulo, Anio, Locaciones), busca
 buscar(Locacion, []) :- !, fail.
 buscar(Locacion, [Locacion|L]) :- !, true.
 buscar(Locacion, [C|L]) :- buscar(Locacion, L).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
