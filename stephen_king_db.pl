@@ -77,38 +77,29 @@ libro(popsy, 1993, []).
 libro(umney_last_case, 1993, [los_angeles]).
 libro(the_ten_O_clock_people, 1993, [boston]).
 libro(the_house_on_mapple_street, 1993, [titusville, england, indiana]).
-libro(nightmares_and_dreamscapes, 1993).
-libro(insomnia, 1994).
-libro(the_man_in_the_black_suit, 1994).
-libro(rose_madder, 1995).
-libro(luckey_quarter, 1995).
-libro(desperation, 1996).
-libro(the_green_mille, 1996).
-libro(the_regulators, 1996).
-libro(everything_is_eventual, 1997).
-libro(autopsy_room_four, 1997).
-libro(six_stories, 1997).
-libro(lunch_at_the_gotham_cafe, 1997).
-libro(theory_of_pets, 1997).
-libro(the_dark_tower_IV_wizard_and_glass, 1997).
-libro(the_little_sisters_of_eluria, 1998).
-libro(legends, 1998).
-libro(that_feeling_you_can_only_say_what_it_is_in_french, 1998).
-libro(bag_of_bones, 1998).
-libro(storm_of_the_century, 1999).
-libro(the_road_virus_heads_north, 1999).
-libro(the_girl_who_loves_tom_gordon, 1999).
+libro(insomnia, 1994, [derry, maine]).
+libro(the_man_in_the_black_suit, 1994, [motton, maine, orono, castle_rock]).
+libro(rose_madder, 1995, [lud]).
+libro(luckey_quarter, 1995, [carson_city, nevada, silver_city]).
+libro(desperation, 1996, [new_york, california, fallon, las_vegas, reno, winnermucca, wendover, utah, nevada, tahoe_lake, oregon, portland, albania, columbus, mexico, texas]).
+libro(the_green_mille, 1996, [lousiana, cold_mountain, georgia, misisipi, trapingus, tefton, atlanta, knoxville, montana, canada, chicago, tennessee, oklahoma, california, detroit, new_england, florida, ratilandia, los_angeles]).
+libro(the_regulators, 1996, [wentworth, ohio, desperation, nevada, cleveland, san_jose, columbus, mongolia, carson_city, mohonk_mountain_house, new_york, terre_haute, new_hampshire, micronesia, fishkill, new_york, wildwood, new_jersey, pennsylvania, albany, connecticut, poplar_street, california, colorado, nevada, own_county_general_store, clearwater, florida, fallen, boulder, las_vegas, south_africa, peru, chinese_laundry, deadwood, south_dakota, vietnam, great-lakes, son_meadow, strawberry_fields_forever]).
+libro(six_stories, 1997, [derry, maine, augusta, miami, nevada, las_vegas, reno, marriott_hotel, columbus, ohio, austin, wendover, charlton, mount_sinai, gotham_cafe, pound_ridge, washington, carson_city, nevada, north_street, silver_city_casino, monte_carlo, carson, castle_rock, motton, orono, castle_stream, vermont]).
+libro(the_dark_tower_IV_wizard_and_glass, 1997, [old_west, desert, algul_siento, baby_forest, bad_grass, badlands, bar_k, beelie_stockade, blaine_cradle, blosswood_forest, boing_boing_burger, brockest, calla, calla_amity, calla_boot_hill, calla_bryn_bouse, calla_bryn_sturgis, calla_divine, calla_lockwood, calla_sen_chre, can_ka_no_rey, candleton, castle_discordia, castle_town, christopher_street_station, chruch_of_the_everlasting_blood, citgo, clean_sea, clement_guns_and_sporting_goods, co_op_city, cressia, cyclopean_mountains, coos_hill, damli_house, dark_tower, dasherville, debaria, delain, delta_fight_910, derry, desatoya, desatoya_mountains, desoy, devar_whye, devar_tete_whye, devil_arse, dis, discordia, dixie_pig, dogan, dorway_cave, downland_baronies, dragon_grave, dutch_hill_mansion, easter_barony, eluria, emerald_city, emphatica, end_world, extraction_room, eyebolt_canyon, fagonard_swamp, fedic, fedic_dogan, forest_of_barony, forest_of_h_bosque, gage_park, gallows_hill, garlan, garland, gingerbread_house, golgotha, gook_town, grand_crescent, great_road, guardians_of_the_beam, hambry, hambry_cemetery, hanging_rock, hemphill, hendrickson, highways_in_hiding, home, i_70_thinny, in_world, indrie, inner_baronies, ironwood_forest, jerincho_hill, kasharmin, katz_pharmacy_and_soda_fountain, keystone_earth, keystone_world, kingdom_of_all_world, kingstown, lake_soroni, le_casse_roi_russe, le_casse_roi_russe,river, lexingworth, lighthouse_shelter, little_sister_infirmatary_tent, lud, luddite_wasteland, main_street_8013_local, manni_redpath, mejis, mid_forest, mid_world, mohaine_desert, multiple_americas, naar, new_canaan, new_york, nigel_quarters, north_forest_kinnock_dogan, nothern_baronies, oakley, odd_lane, onnie_ford, our_lady_of_serenity, our_lady_of_the_rose, out_world, pass_o_river, penniton, pricetown, prim, razek_lake, rilea, rimrocks, ritzy, river_barony, river_crossing, river_send, river_whye, rocking_b_ranch, rose, rotunda, sea_coast_road, seafront, second_avenue, shardik_lair, sheb_pub, silk_ranch_road, son_of_a_bitch, south_islands, southern_baronies, staging_area, taunton, tavares, tejuas, tepachi, the_big_combination, the_clearing, the_drop, the_falls_of_the_hounds, the_head, the_leaning_tower, the_manhattan_restaurant_of_the_mind, the_piper_school, the_shaved_mountains, the_traveller_rest, the_wastelands, thoughful_house, thunderclap, thunderclap_station, todash_space, tomesbury, took_general_store, took_outland_mercantile, topeka, traveler_rest, tree, tull, turtle_bay_luxury_condominiums, turtleback_lame, plaza_hotel, vi_castis, vi_castis_mountains, way_station, waydon, western_line, western_sea, willow_jungle, wind, xay_river_canyon]).
+libro(bag_of_bones, 1998, [maine, derry]).
+libro(storm_of_the_century, 1999, [little_tall_island, roanoke_colony, california, san_francisco, chinatown]).
+libro(the_road_virus_heads_north, 1999, [new_england, derry, tobin_bridge, revere, malden, everett, newbuyport, massachusetts, new_hampshire, rosewood, cape_cod, maine, omaha, nebraska, arizona, wells, saco_river, missouri, boston, tobin_bridge, road_virus, kansas, kennebunk, grand_am]).
+libro(the_girl_who_loves_tom_gordon, 1999, []).
 libro(hearts_in_atlantis, 1999).
 libro(omnibus, 1999).
-libro(1408, 1999).
 libro(blood_and_smoke, 1999).
 libro(on_writting_a_memoir_of_the_craft, 2000).
-libro(ridding_the_bullet, 2000).
 libro(a_volte_ritornano, 2000).
 libro(secret_windows, 2000).
 libro(dreamcatcher, 2001).
 libro(black_house, 2001).
 libro(the_dead_of_jack_hamilton, 2001).
+libro(everything_is_eventual-14-dark-tales, 2002).
 libro(the_wave_dancer_benefit, 2002).
 libro(from_a_buick_8, 2002).
 libro(the_things_they_left_behind, 2003).
